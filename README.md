@@ -18,11 +18,6 @@ A web application that allows users to interact with a 10x10 grid, toggle cells 
 
 Follow these steps to set up and run the project locally:
 
-### Prerequisites
-Make sure you have the following installed on your machine:
-- **Node.js** (Version 14 or above) – [Download Node.js](https://nodejs.org/)
-- **npm** (Node Package Manager) – Comes with Node.js
-
 ### Steps to Run
 
 1. **Clone the repository**:
